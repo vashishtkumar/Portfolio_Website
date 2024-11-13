@@ -1,0 +1,43 @@
+[
+  {
+    "name": "UrbaNest",
+    "desc": "UrbanNest is a MERN stack-based platform for property listings, offering features like user authentication, property search, and detailed descriptions, enabling users to buy, sell, or rent properties with ease.",
+    "image": "urban",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vashishtkumar/IP_Real_Estate_MERN"
+    }
+  },
+  {
+    "name": "Vasibuy",
+    "desc": "VashisBuy is a MERN stack e-commerce website offering secure user authentication, diverse product categories, seamless payment options, and real-time order tracking for an efficient online shopping experience.",
+    "image": "Ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vashishtkumar/VashiBuy"
+    }
+  },
+  {
+    "name": "Temperature Converter",
+    "desc": "The Temperature Converter is a web application built with the MERN stack, allowing users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a simple, intuitive interface for quick conversions.",
+    "image": "tempcon",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vashishtkumar/bharatIntern_project/tree/master/temparture%20convert"
+    }
+  },
+  {
+    "name": "VashiSpendr",
+    "desc": "VashiSpendr is a personal finance management app built with the MERN stack. It helps users track their expenses, set budgets, and analyze spending patterns for better financial planning.",
+    "image": "Vashispendr",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vashishtkumar/VashSpendr"
+    }
+  }
+  
+]
