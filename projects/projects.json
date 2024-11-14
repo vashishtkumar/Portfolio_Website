@@ -1,7 +1,7 @@
 [
   {
     "name": "UrbaNest",
-    "desc": "UrbanNest is a MERN stack-based platform for property listings, offering features like user authentication, property search, and detailed descriptions, enabling users to buy, sell, or rent properties with ease.",
+    "desc": "UrbanNest, a MERN stack platform, offers property listings, user authentication, property search, and detailed descriptions for buying, selling, or renting.",
     "image": "urban",
     "category": "mern",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Vasibuy",
-    "desc": "VashisBuy is a MERN stack e-commerce website offering secure user authentication, diverse product categories, seamless payment options, and real-time order tracking for an efficient online shopping experience.",
+    "desc": "VashisBuy, a MERN stack e-commerce site, offers secure authentication, diverse products, seamless payments, and real-time order tracking.",
     "image": "Ecommerce",
     "category": "mern",
     "links": {
@@ -25,13 +25,13 @@
     "image": "tempcon",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/vashishtkumar/bharatIntern_project/tree/master/temparture%20convert"
+      "view": "https://vashitempconverter.netlify.app/",
+      "code": "https://github.com/vashishtkumar/Temperature_Converter"
     }
   },
   {
     "name": "VashiSpendr",
-    "desc": "VashiSpendr is a personal finance management app built with the MERN stack. It helps users track their expenses, set budgets, and analyze spending patterns for better financial planning.",
+    "desc": "VashiSpendr, a MERN stack finance app, helps users track expenses, set budgets, and analyze spending patterns for better financial planning.",
     "image": "Vashispendr",
     "category": "mern",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Stopwatch",
-    "desc": "Stopwatch is a basic web application that allows users to start, stop, and reset a timer. Built with HTML, CSS, and JavaScript, it provides a simple and intuitive interface for time tracking.",
+    "desc": "Stopwatch is a basic web application that allows users to start, stop, and reset a timer.",
     "image": "stopwatch",
     "category": "basicweb",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Image Viewer",
-    "desc": "Image Viewer is a web application that allows users to upload and view images. Built with HTML, CSS, and JavaScript, it provides a user-friendly interface for managing and displaying images.",
+    "desc": "Image Viewer is a web application that allows users to upload and view images.",
     "image": "imageviewer",
     "category": "basicweb",
     "links": {
