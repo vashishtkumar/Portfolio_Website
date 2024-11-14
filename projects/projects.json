@@ -23,7 +23,7 @@
     "name": "Temperature Converter",
     "desc": "The Temperature Converter is a web application built with the MERN stack, allowing users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a simple, intuitive interface for quick conversions.",
     "image": "tempcon",
-    "category": "mern",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "https://github.com/vashishtkumar/bharatIntern_project/tree/master/temparture%20convert"
@@ -37,6 +37,26 @@
     "links": {
       "view": "#",
       "code": "https://github.com/vashishtkumar/VashSpendr"
+    }
+  },
+  {
+    "name": "Stopwatch",
+    "desc": "Stopwatch is a basic web application that allows users to start, stop, and reset a timer. Built with HTML, CSS, and JavaScript, it provides a simple and intuitive interface for time tracking.",
+    "image": "stopwatch",
+    "category": "basicweb",
+    "links": {
+      "view": "https://vashishtstopwatch.netlify.app/",
+      "code": "https://github.com/vashishtkumar/Full_Stack_Projects/tree/main/Stopwatch"
+    }
+  },
+  {
+    "name": "Image Viewer",
+    "desc": "Image Viewer is a web application that allows users to upload and view images. Built with HTML, CSS, and JavaScript, it provides a user-friendly interface for managing and displaying images.",
+    "image": "imageviewer",
+    "category": "basicweb",
+    "links": {
+      "view": "https://vashishtimageviewer.netlify.app/",
+      "code": "https://github.com/vashishtkumar/Full_Stack_Projects/tree/main/ImageViewer"
     }
   }
   
