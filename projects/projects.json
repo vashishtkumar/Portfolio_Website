@@ -21,7 +21,7 @@
   },
   {
     "name": "Temperature Converter",
-    "desc": "The Temperature Converter is a web application built with the MERN stack, allowing users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a simple, intuitive interface for quick conversions.",
+    "desc": "The Temperature Converter is a MERN stack web app for quick conversions between Celsius, Fahrenheit, and Kelvin, featuring a simple and intuitive interface.",
     "image": "tempcon",
     "category": "basicweb",
     "links": {
