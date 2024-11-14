@@ -38,20 +38,39 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("service_que0uir");
+    // $("#contact-form").submit(function (event) {
+    //     emailjs.init("service_que0uir");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+    //     emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+    //         .then(function (response) {
+    //             console.log('SUCCESS!', response.status, response.text);
+    //             document.getElementById("contact-form").reset();
+    //             alert("Form Submitted Successfully");
+    //         }, function (error) {
+    //             console.log('FAILED...', error);
+    //             alert("Form Submission Failed! Try Again");
+    //         });
+    //     event.preventDefault();
+    // });
+    $("#contact-form").submit(function (event) {
+        // Initialize EmailJS with your public API key (User ID)
+        emailjs.init("pyZojp9OUr0qxNFyx");  // Your API Key (User ID)
+    
+        // Send the form data using your Service ID and Template ID
+        emailjs.sendForm('service_y1es93i', 'template_vkea49x', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
+                document.getElementById("contact-form").reset();  // Reset the form
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again");
             });
+    
+        // Prevent the default form submission
         event.preventDefault();
     });
+    
     // <!-- emailjs to mail contact form data -->
 
 });
